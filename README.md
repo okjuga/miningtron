@@ -1,2 +1,0 @@
-# miningtron
-mining tron unmineble
